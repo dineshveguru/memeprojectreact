@@ -77,6 +77,10 @@ body {
   font-size: 3rem;
   color: #fff;
   text-align: center;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
+    -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
+    2px 2px 5px #000;
 }
 
 .meme--bottomText {
@@ -85,5 +89,10 @@ body {
   left: auto;
   text-align: center;
   font-size: 3rem;
+  text-transform: uppercase;
+
   color: #fff;
+  text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
+    -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
+    2px 2px 5px #000;
 }
